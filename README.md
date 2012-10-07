@@ -25,6 +25,8 @@ Tested on Chrome 22.0.1229.79, OSX 10.7.4
 1. Select "Load unpacked extension"
 1. Locate the folder and go
 
+Documentation: http://developer.chrome.com/extensions/getstarted.html
+
 
 ## Screenshots
 ![Link Manager](https://raw.github.com/brasofilo/IWP-Chrome-Hook/master/screenshot.png)
