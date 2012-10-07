@@ -1,0 +1,12 @@
+{
+  "name": "InfiniteWP",
+  "version": "1.0",
+  "manifest_version": 2,
+  "content_scripts": [{
+      "matches": ["http://example.com/infinitewp/*", "http://another-example/iwp/*"],
+      "js": ["jquery.js","my-iwp.js"]
+  }],
+  "icons": {
+    "128": "128.png"
+  }
+}
