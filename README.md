@@ -1,4 +1,4 @@
-![FLI logo](https://github.com/brasofilo/featured-link-image/raw/master/logo.png)
+![MTT logo](https://raw.github.com/brasofilo/Private-Comments-in-CPT/master/logo.png)
 
 IWP-Chrome-Hook
 ===============
